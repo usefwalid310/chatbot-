@@ -1,0 +1,68 @@
+Category,Task,Data,Description
+2D,Pixel Art,"Piskel for pixel art, Aseprite for pixel art and animation, Pyxel Edit for pixel art, GraphicsGale for pixel art",Tools for creating pixel art and animation
+2D,2D Game Development,"Godot Engine, GameMaker Studio, Construct, Cocos Creator",Engines for developing 2D games
+2D,Tile-based Level Design,Tiled,A tool for creating tile-based levels
+2D,Fantasy Console Development,Pico-8,A fantasy console for game development
+2D,Tools,"Various tools for 2D art, animation, and games",Tools for creating 2D art
+3D,3D Modeling,"Blender, Autodesk Maya, 3ds Max, Cinema 4D",Tools for 3D modeling
+3D,Digital Sculpting,ZBrush,A tool for digital sculpting
+3D,Texturing,Substance Painter,A tool for texturing 3D models
+3D,3D Game Engines,"Unreal Engine, Unity",Engines for developing 3D games
+3D,Terrain Generation,"World Machine, Gaia for Unity",Tools for generating terrain
+3D,Tools,"Various tools for 3D models, animation, and games",Tools for creating 3D models
+Programming,Editors,"Visual Studio Code, JetBrains IntelliJ IDEA, Eclipse",Editors for coding
+Programming,Languages,"C++ for Unreal Engine, C# for Unity, GDScript for Godot Engine, Lua for Roblox Studio, JavaScript, Python, TypeScript, Rust",Programming languages for game development
+Programming,Tools,Various tools for coding and scripting in various languages,Tools for coding and scripting
+Sound,Music Production,"FL Studio, Ableton Live",Tools for music production
+Sound,Audio Editing,"Audacity, Adobe Audition",Tools for editing audio
+Sound,Audio Implementation in Games,"FMOD Studio, Wwise",Tools for implementing audio in games
+Sound,Sound Effects,Bfxr,A tool for creating sound effects
+Sound,Tools,Various tools for creating and editing game audio,Tools for creating and editing game audio
+Level Design,Tile-based Level Design,Tiled,A tool for creating tile-based levels
+Level Design,Tools,Various tools for creating game levels and environments,Tools for creating game levels and environments
+Level Design,Engines,"Unity, Unreal Engine",Engines for level design
+Level Design,Terrain Generation,"World Machine, Gaia for Unity",Tools for generating terrain
+Level Design,Procedural Generation,Houdini,A tool for procedural generation
+Animation,2D Animation,"Spine, Creature, Unity, Adobe Character Animator",Tools for 2D animation
+Animation,3D Animation,"Mixamo, Daz 3D, Unreal Engine",Tools for 3D animation
+Animation,Tools,Various tools for creating animations for games,Tools for creating animations for games
+Art Direction,Concept Art,"Photoshop, Procreate",Tools for creating concept art
+Art Direction,Digital Painting,"Krita, Clip Studio Paint",Tools for digital painting
+Art Direction,Vector Art,Illustrator,A tool for creating vector art
+Art Direction,3D Art,Blender,A tool for creating 3D art
+Art Direction,Tools,"Various tools for creating concept art, digital paintings, and 3D models",Tools for creating concept art
+Game Design,Documentation,Game Design Document (GDD) template,A template for game design documentation
+Game Design,Rapid Prototyping,GameMaker Studio,A tool for rapid prototyping
+Game Design,Visual Scripting,Construct,A tool for visual scripting
+Game Design,Resources,"Unity Asset Store, Unreal Engine Marketplace, Twine, RPG Maker",Resources for game design
+Mobile Development,Engines,"Unity, Unreal Engine",Engines for mobile game development
+Mobile Development,Development Tools,"Android Studio, Xcode, Flutter, Corona SDK",Tools for mobile game development
+Mobile Development,Tools,Various tools for creating games for mobile devices,Tools for creating games for mobile devices
+Web Development,HTML5 Game Development,Phaser,A framework for HTML5 game development
+Web Development,3D Web Games,"Three.js, Unity WebGL, Unreal Engine",Tools for creating 3D web games
+Web Development,Web-Based Games,"Babylon.js, PlayCanvas",Tools for creating web-based games
+Web Development,Web Game Performance,WebAssembly,A tool for improving web game performance
+Web Development,Tools,Various tools for creating games for web browsers,Tools for creating games for web browsers
+Virtual Reality (VR),VR Development,"Unity, Unreal Engine",Engines for VR development
+Virtual Reality (VR),Headsets,"Oculus Rift, HTC Vive, PlayStation VR, Google Cardboard",VR headsets
+Virtual Reality (VR),Tools,Various tools for creating games for virtual reality environments,Tools for creating games for virtual reality environments
+Augmented Reality (AR),AR Development,"Unity, Unreal Engine",Engines for AR development
+Augmented Reality (AR),ARKit,ARKit for iOS AR development,An AR development kit for iOS
+Augmented Reality (AR),ARCore,ARCore for Android AR development,An AR development kit for Android
+Augmented Reality (AR),Tools,Various tools for creating games with augmented reality features,Tools for creating games with augmented reality features
+Multiplayer Networking,Unity Networking,"Photon Unity Networking (PUN), Mirror",Networking solutions for Unity
+Multiplayer Networking,Unreal Engine Networking,Unreal Engine's Online Subsystem,Networking solutions for Unreal Engine
+Multiplayer Networking,Services,"Unity Multiplayer Services, GameSparks, Firebase",Multiplayer services for game development
+Multiplayer Networking,Tools,Various tools for implementing multiplayer features in games,Tools for implementing multiplayer features in games
+Game Monetization,Mobile Ads,"AdMob, Unity Ads",Ad platforms for mobile games
+Game Monetization,Web Ads,Google AdSense,An ad platform for web games
+Game Monetization,In-App Purchases,In-app purchases for mobile games,Monetization through in-app purchases
+Game Monetization,Crowdfunding,Patreon,A crowdfunding platform
+Game Monetization,Distribution Platforms,"Steam Direct, itch.io",Platforms for selling and distributing games
+Game Monetization,Tools,Various tools and platforms for earning revenue from games,Tools and platforms for earning revenue from games
+Game Marketing,Press Kits,Create a game press kit,Guidelines for creating a game press kit
+Game Marketing,Social Media Promotion,Use social media for game promotion,Strategies for promoting games on social media
+Game Marketing,Engagement,"Participate in game jams, attend game conferences and events",Ways to engage with the gaming community
+Game Marketing,Collaboration,Collaborate with influencers,Strategies for collaborating with influencers
+Game Marketing,Advertising,"Use game trailers and teasers, run targeted advertising campaigns",Advertising strategies for games
+Game Marketing,Strategies and Tactics,Strategies and tactics for promoting games,Various strategies and tactics for promoting games
